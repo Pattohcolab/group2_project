@@ -2,6 +2,9 @@
 
 # ANALYSIS OF CROP YIELD IN KARAMOJA REGION
 
+<img width="1100" height="953" alt="image" src="https://github.com/user-attachments/assets/b8220496-2988-4d13-9903-21416461c147" />
+
+
 # Business Understanding
 
 An NGO seeks to provide technical support as well as farm inputs to the farmers experiencing extremely low yield in the Karamoja region of Uganda.
